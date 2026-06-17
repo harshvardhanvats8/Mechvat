@@ -1,0 +1,6 @@
+{
+  "name": "MechVat",
+  "description": "An interactive engineering visualizer, CAD simulation center, and AI-guided learning platform for mechanics, aeronautics, robotics, and smart vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
